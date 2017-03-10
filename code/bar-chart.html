@@ -164,6 +164,8 @@
                         .attr('height', 400)
                         .style('fill', 'lightgreen');
 
+                // http://wahl16.bmi.gv.at/1604-0.html
+
                 chart.append('rect') // zeichnen eines rechtecks auf dem svg
                         .attr('x', 0) // x-koordinate der linken oberen ecke des rechtecks = 0
                         // y-koordinate = gewünschte grundlinie - wert; ist nötig,
@@ -278,6 +280,7 @@
                         .style('fill', 'lightgreen');
 
                 // die ergebnisse in einem array speichern - achtung, der erste wert steht immer an position 0
+                // http://wahl16.bmi.gv.at/1604-0.html
                 var result = [ 18.94, 35.05, 11.28, 11.12, 2.26, 21.34 ];
                 // die farben in einem array speichern - achtung, muss gleich geordnet sein wie die ergebnisse
                 var colors = [ '#8E88A7', '#2657A8', '#C83D44', '#191919', '#E7B500', '#89A04F' ];
@@ -309,6 +312,7 @@
                         .style('fill', 'lightgreen');
 
                 // achtung, zahlen stehen ohne "", der rest mit ""
+                // http://wahl16.bmi.gv.at/1604-0.html
                 var result = [
                     { 'name': 'Griss', 'percent': 18.94, 'color': '#8E88A7' },
                     { 'name': 'Hofer', 'percent': 35.05, 'color': '#2657A8' },

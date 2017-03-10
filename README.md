@@ -4,8 +4,8 @@ Bid Data Lehrveranstaltung @ FH Joanneum
 - Datum: 11. März 2017, 9-18 Uhr
 - Ort: FH Joanneum, Alte Poststraße 152, Graz
 - Lehrende: 
-	- [Stefan Kasberger](http://stefankasberger.at/) ([@stefankasberger](http://twitter.com/stefankasberger))
-	- Peter Grassberger
+    - [Stefan Kasberger](http://stefankasberger.at/) ([@stefankasberger](https://twitter.com/stefankasberger))
+	- [Peter Grassberger](http://petergrassberger.at/) ([@PeterTheOne](https://twitter.com/PeterTheOne))
 
 Der Inhalt hier steht, soweit nicht explizit anders erwähnt, unter der [Creative Commons Namensnennung 4.0 Lizenz](https://creativecommons.org/licenses/by/4.0/).
 
@@ -31,7 +31,7 @@ Zur Vorbereitung soll der Artikel **[Ich habe nur gezeigt, dass es die Bombe gib
 ### 1. Willkommen
 [Stefan Kasberger](http://stefankasberger.at/) studiert Umweltsystemwissenschaften Geographie an der Karl Franzens Universtität Graz, forscht im Bereich Computational Social Science, ist Training Manager bei [ContentMine](http://contentmine.org/) und Obmann bei [Open Knowledge Österreich](http://okfn.at/).
 
-Peter Grassberger...
+[Peter Grassberger](http://petergrassberger.at/) studierte dann Medientechnik und -design im Bachelor an der FH Hagenberg. Aktuell ist er Selbstständig als Web- und Softwareentwickler in Graz, studiert Softwareentwicklung-Wirtschaft im Master an der TU Graz und ist (Netz)politisch aktiv.
 
 **Quellen**
 - []()

@@ -18,11 +18,11 @@ Zur Vorbereitung soll der Artikel "**[Ich habe nur gezeigt, dass es die Bombe gi
 | Timetable     | Agenda       |
 |---------------|--------------|
 | 9:00 - 9:15 | Einleitung |
-| 9:15 - 10:15 | Big Data Einführung |
-| 10:15 - 10:40 | Diskussion Cambridge Analytica |
-| 10:40 - 10:55 | Pause |
-| 11:00 - 11:45 | Open Data |
-| 11:45 - 12:30 | Setup Coding |
+| 9:15 - 10:45 | Big Data Einführung |
+| 10:45 - 11:05 | Diskussion Cambridge Analytica |
+| 11:05 - 11:20 | Pause |
+| 11:20 - 12:00 | Open Data |
+| 12:00 - 12:30 | Setup Coding |
 | 12:30 - 13:30 | Mittag |
 | 13:30 - 15:15 | Coden 1 |
 | 15:15 - 15:30 | Pause |
@@ -48,6 +48,7 @@ Zuerst wird es eine Einführung in die Grundlagen von Big Data gegeben. Es wird 
 - [IBM Watson](https://de.wikipedia.org/wiki/Watson_(K%C3%BCnstliche_Intelligenz))
 - [Google DeepMind](https://de.wikipedia.org/wiki/Google_DeepMind)
 - [Machine Bias: There’s Software Used Across the Country to Predict Future Criminals. And it’s Biased Against Blacks.](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
+- [Private traits and attributes are predictable from digital records of human behavior](http://www.pnas.org/content/110/15/5802.abstract)
 - [Discrimination in Online Ad Delivery](http://queue.acm.org/detail.cfm?id=2460278)
 - [Measuring Price Discrimination and Steering on E-commerce Web Sites](http://dl.acm.org/citation.cfm?id=2663744)
 - [Ich habe nur gezeigt, dass es die Bombe gibt](https://www.dasmagazin.ch/2016/12/03/ich-habe-nur-gezeigt-dass-es-die-bombe-gibt/)
@@ -64,6 +65,8 @@ Es wird zu Open Data eine Einführung geben und anhand dem Beispiel von [Offene 
 
 ### 4. Coden
 
+- [Tutorial: Balkendiagramm](http://offenewahlen.at/tutorials/balkendiagramm/)
+- [Tutorial: Wahl-Karte](http://offenewahlen.at/tutorials/karte/)
 
 
 ## SONSTIGES

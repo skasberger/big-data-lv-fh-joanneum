@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="de">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <title>Bar Chart</title>
+
+        <script src="https://d3js.org/d3.v4.min.js"></script>
+    </head>
+    <body>
+        <div class="container">
+            <h1>Bar Chart</h1>
+
+        </div>
+
+        <script>
+            var chartWidth = 600;
+            var chartHeight = 400;
+
+            var chart = d3.select('.container')
+                    .append('svg')
+                    .attr('width', chartWidth)
+                    .attr('height', chartHeight)
+                    .append('g');
+
+            chart.append('rect')
+                    .attr('x', 0)
+                    .attr('y', 0)
+                    .attr('width', 600)
+                    .attr('height', 400)
+                    .style('fill', 'lightgreen');
+
+
+            // start down here!
+
+
+        </script>
+    </body>
+</html>

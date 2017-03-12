@@ -23,13 +23,14 @@
                     .attr('height', chartHeight)
                     .append('g');
 
-            //step1(); // programmierkonzepte
-            step2(); // alles statisch und hardcoded, erklärung ad koordinationsystem, höhe umdrehen
+            step1(); // programmierkonzepte
+            //step2(); // alles statisch und hardcoded, erklärung ad koordinationsystem, höhe umdrehen
             //step3(); // positionierung und größe relativ, abstand als variable;
                         // höhe als prozentwert verwenden, breite und höhe variieren
                         // farben; hex und rgb kurz erklären; farben ausprobieren
             //step4(); // array; loop; variable länge verwenden
             //step5(); //sortierung, array of objects; beschriftung
+            //step6(); // animation
 
             function step1 () {
                 // 1.1 sublime text installieren
@@ -348,7 +349,60 @@
                             .style('fill', result[ i ].color) // schriftfarbe
                             .style('font-size', '18px') // schriftgröße
                             .style('text-anchor', 'middle') // zentrieren
-                            .text(result[ i ].name); // der text an sich
+                            .text(result[ i ].percent); // der text an sich
+                }
+            }
+
+            function step6 () {
+                chart.append('rect')
+                        .attr('x', 0)
+                        .attr('y', 0)
+                        .attr('width', chartWidth)
+                        .attr('height', chartHeight)
+                        .style('fill', 'lightgreen');
+
+                // achtung, zahlen stehen ohne "", der rest mit ""
+                // http://wahl16.bmi.gv.at/1604-0.html
+                var result = [
+                    { 'name': 'Griss', 'percent': 18.94, 'color': '#8E88A7' },
+                    { 'name': 'Hofer', 'percent': 35.05, 'color': '#2657A8' },
+                    { 'name': 'Hundstorfer', 'percent': 11.28, 'color': '#C83D44' },
+                    { 'name': 'Khol', 'percent': 11.12, 'color': '#191919' },
+                    { 'name': 'Lugner', 'percent': 2.26, 'color': '#E7B500' },
+                    { 'name': 'Van der Bellen', 'percent': 21.34, 'color': '#89A04F' }
+                ];
+
+                // sortiert den array, allerdings nicht die farben - aufbau eines neuen arrays,
+                // bestehend aus kandidaten-objects, mit den eigenschaften "name", "ergebnis" und farbe
+                result.sort(function (a, b) { return a.percent < b.percent; });
+
+                var spaceWidth = 10;
+                var barWidth = chartWidth / result.length - spaceWidth;
+
+                for (var i = 0; i < result.length; i++) {
+                    chart.append('rect')
+                            .attr('x', i * (barWidth + spaceWidth))
+                            // ergebnis direkt ansprechen
+                            .attr('y', chartHeight)
+                            .attr('width', barWidth)
+                            .attr('height', chartHeight * result[ i ].percent / 100)
+                            .style('fill', result[ i ].color)
+                            .transition()
+                            .duration(2000)
+                            .attr('y', chartHeight - chartHeight * result[ i ].percent / 100);
+
+                    chart.append('text')
+                            // text in die mitte des balkens schieben
+                            .attr('x', i * (barWidth + spaceWidth) + barWidth / 2)
+                            // etwas über dem balken positionieren
+                            .attr('y', chartHeight)
+                            .style('fill', result[ i ].color) // schriftfarbe
+                            .style('font-size', '18px') // schriftgröße
+                            .style('text-anchor', 'middle') // zentrieren
+                            .text(result[ i ].percent) // der text an sich
+                            .transition()
+                            .duration(2000)
+                            .attr('y', chartHeight - chartHeight * result[ i ].percent / 100 - 5);
                 }
             }
 

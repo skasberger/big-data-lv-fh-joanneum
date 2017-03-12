@@ -65,8 +65,19 @@ Es wird zu Open Data eine Einführung geben und anhand dem Beispiel von [Offene 
 
 ### 4. Coden
 
+**Ressourcen**
+- [Sublime Text](https://www.sublimetext.com/)
 - [Tutorial: Balkendiagramm](http://offenewahlen.at/tutorials/balkendiagramm/)
 - [Tutorial: Wahl-Karte](http://offenewahlen.at/tutorials/karte/)
+- [Videos von GangMan2006 @ Youtube](https://www.youtube.com/user/GangMan2006)
+- [Nachschlagewerk: developer.mozilla.org](https://developer.mozilla.org)
+- [Fragen stellen: Stackoverflow](https://stackoverflow.com)
+- [Interaktiv Lernen: CodeAcademy](https://www.codecademy.com)
+- [Interaktiv Lernen: Code School](https://www.codeschool.com/)
+- [Interaktiv Lernen: Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming)
+- [Udacity Course: JavaScript Basis for Beginners](https://www.udacity.com/course/javascript-basics--ud804)
+- [Intro to jQuery](https://www.udacity.com/course/intro-to-jquery--ud245)
+- [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
 
 
 ## SONSTIGES

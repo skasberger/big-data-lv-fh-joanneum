@@ -38,6 +38,10 @@ Zur Vorbereitung soll der Artikel "**[Ich habe nur gezeigt, dass es die Bombe gi
 
 Zuerst wird es eine Einführung in die Grundlagen von Big Data gegeben. Es wird näher auf das Zusammenspiel von Daten und Algorithmen eingegangen. Anhand von einer interaktiven Session werden die Studierenden selber mit ihren Daten füttern und so die Funktionsweise direkt erleben und verstehen lernen. Danach werden kurz einige relevante Felder erklärt, in denen große Datenmengen und selbstlernende Algorithmen eine zentrale Rolle spielen. Am Schluss wird das ganze mit einem Blick auf die gesellschaftlichen Aspekte dieser Technologie und den Wechselwirkungen zwischen Gesellschaft und Technologie, bevor die erlernten Aspekte konkret mit dem aktuellen Beispiel von Cambridge Analytica und der Trump-Wahl gemeinsam diskutiert werden.
 
+
+**[Präsentation](https://www.slideshare.net/cheeseman1983/einfhrung-big-data)**
+
+
 **Quellen**
 - [Big Data](https://de.wikipedia.org/wiki/Big_Data)
 - [Algorithmus](https://de.wikipedia.org/wiki/Algorithmus)
@@ -57,11 +61,21 @@ Zuerst wird es eine Einführung in die Grundlagen von Big Data gegeben. Es wird 
 
 ### 3. Open Data
 
-Es wird zu Open Data eine Einführung geben und anhand dem Beispiel von [Offene Wahlen Österreich](http://offenewahlen.at/) konkret erläutert.
+Anhand von dem Projekt [Offene Wahlen Österreich](http://offenewahlen.at/) wird das Konzept von offenen Daten erklärt und etwas näher betrachtet.
+
+
+**[Präsentation](slides_open-data.pdf)**
+
 
 **Quellen**
 - [Open Data](https://de.wikipedia.org/wiki/Open_Data)
 - [Offene Wahlen Österreich](http://offenewahlen.at/)
+- [Open Definition](http://opendefinition.org/)
+- [Creative Commons](http://creativecommons.org/)
+- [Open Government Data Portal Österreich](http://data.gv.at/)
+- [OpenDataPortal Österreich](https://www.opendataportal.at/)
+- [OpenStreetMap](http://openstreetmap.org/)
+- [Informationsfreiheitsgesetz](https://www.informationsfreiheit.at/)
 
 ### 4. Coden
 
@@ -75,15 +89,10 @@ Es wird zu Open Data eine Einführung geben und anhand dem Beispiel von [Offene 
 - [Interaktiv Lernen: CodeAcademy](https://www.codecademy.com)
 - [Interaktiv Lernen: Code School](https://www.codeschool.com/)
 - [Interaktiv Lernen: Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming)
-- [Udacity Course: JavaScript Basis for Beginners](https://www.udacity.com/course/javascript-basics--ud804)
+- [Udacity Course: JavaScript Basics for Beginners](https://www.udacity.com/course/javascript-basics--ud804)
 - [Intro to jQuery](https://www.udacity.com/course/intro-to-jquery--ud245)
 - [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
 
-
-## SONSTIGES
-
-
-## REPOSITORY
 
 
 

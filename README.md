@@ -36,10 +36,23 @@ Zur Vorbereitung soll der Artikel "**[Ich habe nur gezeigt, dass es die Bombe gi
 
 ### 2. Big Data
 
-Zuerst wird es eine Einführung in die Grundlagen von Big Data gegeben. Es wird näher auf das Zusammenspiel von Daten und Algorithmen eingegangen. Anhand von einer interaktiven Session werden die Studierenden selber mit ihren Daten füttern und so die Funktionsweise direkt erleben und verstehen lernen. Danach werden kurz einige relevante Felder erklärt, in denen große Datenmengen und selbstlernende Algorithmen eine zentrale Rolle spielen. Am Schluss wird das ganze mit einem Blick auf die gesellschaftlichen Aspekte dieser Technologie und den Wechselwirkungen zwischen Gesellschaft und Technologie, bevor die erlernten Aspekte konkret mit dem aktuellen Beispiel von Cambridge Analytica und der Trump-Wahl gemeinsam diskutiert werden.
+**Big Data ist in aller Munde, doch was ist damit gemeint?**
 
 
-**[Präsentation](https://www.slideshare.net/cheeseman1983/einfhrung-big-data)**
+Bei der Einführung in den Begriff Big Data werden Schritt für Schritt die relevanten Aspekte erörtert und gemeinsam in interaktiven Formaten direkt erfasst. 
+
+Bei der theoretischen Einführung wird erklärt, was ein Algorithmus ist, wie ein Algorithmus lernt, welche Rolle Daten dabei spielen und welche Grenzen und Probleme es dabei gibt. 
+
+Mittels einem interaktiven Format erleben die Studierenden dann direkt wie ein Algorithmus Entscheidungen trifft und welche Auswirkungen dies auf sie selber und die Gesellschaft haben kann. Dazu werden von Studierenden Daten zu wie Alter, Wohnfläche, Geschlecht, Medienkonsum pro Woche und Zufriedenheit mit Politik gesammelt. Die Daten werden dann auf drei Algorithmen (2 fix vorgegebene und ein lernender) angewendet und die Unterschiede diskutiert.
+
+<img src="assets/images/algo-session.png" alt="Alorithmus Session" width=50%/><img src="assets/images/data.png" alt="Studi-Daten" width=50%/>
+
+Mit dem dadurch erlangten Verständnis werden noch einige bekannte und relevante Anwendungsfälle von lernenden Algorithmen gezeigt und diskutiert (z. B. Facebook Gesichter-Erkennung, Amazon Empfehlungen, Autonome Autos, etc.). Der Theorie-Teil wird dann mit einen Blick auf das Wechselspiel von Technologie und Mensch abgerundet.
+
+Zum Schluss wird das erlernte Wissen im Zuge einer Diskussion zu dem Artikel "[Ich habe nur gezeigt, dass es die Bombe gibt](https://www.dasmagazin.ch/2016/12/03/ich-habe-nur-gezeigt-dass-es-die-bombe-gibt/)" über Cambridge Analytica und dem Einfluss auf die Wahl von Donald Trump angewendet und kritisch hinterfragt.
+
+
+**-> [Folien Big Data](https://www.slideshare.net/cheeseman1983/einfhrung-big-data)**
 
 
 **Quellen**
@@ -58,13 +71,22 @@ Zuerst wird es eine Einführung in die Grundlagen von Big Data gegeben. Es wird 
 - [Ich habe nur gezeigt, dass es die Bombe gibt](https://www.dasmagazin.ch/2016/12/03/ich-habe-nur-gezeigt-dass-es-die-bombe-gibt/)
 - [Cambridge Analytica und die schmutzige Bombe](http://de-bug.de/blog/medien/cambridge-analytica-und-die-schmutzige-bombe)
 - [Mit Big Data Wähler manipulieren: "So einfach ist das nicht"](https://futurezone.at/netzpolitik/mit-big-data-waehler-manipulieren-so-einfach-ist-das-nicht/234.371.739)
+- [Vortrag Wolfie Christl zu Big-Data-Business, Profiling & Privacy @ 14. #netzpat](https://www.youtube.com/watch?v=33WIDqehSjY)
 
 ### 3. Open Data
 
-Anhand von dem Projekt [Offene Wahlen Österreich](http://offenewahlen.at/) wird das Konzept von offenen Daten erklärt und etwas näher betrachtet.
+**Daten als Gemeingut.**
+
+Open Data befreit Daten und ermöglicht allen das Verwenden dieser. Bei der Einführung werden die Vorteile und Probleme die dabei auftreten erörtert. 
+
+![Open Data](assets/images/open-data.png)
+
+Dann wird anhand des Projektes [Offene Wahlen Österreich](http://offenewahlen.at/) auf praktischer Ebene die Stärke und Relevanz von Open Data erklärt und ein Einblick in die Arbeit mit offenen Daten gegeben.
+
+![Offene Wahlen Österreich](assets/images/offene-wahlen.png)
 
 
-**[Präsentation](slides_open-data.pdf)**
+**-> [Folien Open Data](slides_open-data.pdf)**
 
 
 **Quellen**
@@ -78,6 +100,8 @@ Anhand von dem Projekt [Offene Wahlen Österreich](http://offenewahlen.at/) wird
 - [Informationsfreiheitsgesetz](https://www.informationsfreiheit.at/)
 
 ### 4. Coden
+
+Mittels JavaScript werden gemeinsam die ersten Schritte im Programmieren erlernt. Anhand dem erstellen eines Balkendiagrammes mit dem das Ergebnis einer Wahl visuell dargestellt wird, werden die Grundlagen im programmatischen Denken vermittelt, und so die Anwendung von Algorithmen und Daten von eigener Hand erlebt.
 
 **Ressourcen**
 - [Sublime Text](https://www.sublimetext.com/)

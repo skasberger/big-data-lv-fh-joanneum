@@ -1,6 +1,8 @@
 Big Data Lehrveranstaltung @ FH Joanneum
 ==============================
 
+Dieses Repository enthält alle Informationen und Materialen zur Lehrveranstaltung "Big Data" an der FH Joanneum Graz. Dies dient als Grundlage für die Vorbereitung der LV sowie als Dokumentation vor Ort und nach der LV.
+
 - Datum: 11. März 2017, 9-18 Uhr
 - Ort: FH Joanneum, Alte Poststraße 152, Graz
 - Lehrende: 
@@ -13,7 +15,7 @@ Der Inhalt hier steht, soweit nicht explizit anders erwähnt, unter der [Creativ
 
 Zur Vorbereitung soll der Artikel "**[Ich habe nur gezeigt, dass es die Bombe gibt](https://www.dasmagazin.ch/2016/12/03/ich-habe-nur-gezeigt-dass-es-die-bombe-gibt/)**". Der Artikel gibt einen Einblick in verschiedene Aspekte, die uns in der Lehrveranstaltung begleiten und welche wir gemeinsam vor Ort diskutieren werden.
 
-## ABLAUF
+## LV ABLAUF
 
 | Timetable     | Agenda       |
 |---------------|--------------|
@@ -83,7 +85,7 @@ Open Data befreit Daten und ermöglicht allen das Verwenden dieser. Bei der Einf
 
 Dann wird anhand des Projektes [Offene Wahlen Österreich](http://offenewahlen.at/) auf praktischer Ebene die Stärke und Relevanz von Open Data erklärt und ein Einblick in die Arbeit mit offenen Daten gegeben.
 
-![Offene Wahlen Österreich](assets/images/offene-wahlen.png)
+<a href="http://offenewahlen.at" title="Offene Wahlen Österreich">![Offene Wahlen Österreich](assets/images/offene-wahlen.png)</a>
 
 
 **-> [Folien Open Data](slides_open-data.pdf)**
@@ -117,6 +119,9 @@ Mittels JavaScript werden gemeinsam die ersten Schritte im Programmieren erlernt
 - [Intro to jQuery](https://www.udacity.com/course/intro-to-jquery--ud245)
 - [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
 
+## RESSOURCEN 
 
+- [Folien Big Data](https://www.slideshare.net/cheeseman1983/einfhrung-big-data)
+- [Folien Open Data](slides_open-data.pdf)
 
 

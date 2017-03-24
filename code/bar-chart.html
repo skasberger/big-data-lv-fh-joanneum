@@ -41,6 +41,9 @@
 
                 // Flooh Perlot http://drawingdata.net/
 
+                // html document erklären
+                // head, body
+
                 // Algorithmus
 
                 // „Ein Algorithmus ist eine eindeutige
@@ -74,8 +77,8 @@
                 // 1.5 kommentare
 
                 // this is a comment about the next line
-                var someCode = 5;
-                console.log(someCode);
+                console.log(5);
+
 
                 //someCode = 7; // auskommentiert
                 //console.log(someCode);
@@ -91,6 +94,8 @@
 
                 var greeting = 'Hallo Welt!'; // string
                 console.log(greeting);
+
+                // großkleinschreibung
 
                 var answer = 42; // nummer (int)
                 console.log(answer);
@@ -341,15 +346,15 @@
                             .attr('height', chartHeight * result[ i ].percent / 100)
                             .style('fill', result[ i ].color);
 
-                    chart.append('text')
-                            // text in die mitte des balkens schieben
-                            .attr('x', i * (barWidth + spaceWidth) + barWidth / 2)
-                            // etwas über dem balken positionieren
-                            .attr('y', chartHeight - chartHeight * result[ i ].percent / 100 - 5)
-                            .style('fill', result[ i ].color) // schriftfarbe
-                            .style('font-size', '18px') // schriftgröße
-                            .style('text-anchor', 'middle') // zentrieren
-                            .text(result[ i ].percent); // der text an sich
+            chart.append('text')
+                    // text in die mitte des balkens schieben
+                    .attr('x', i * (barWidth + spaceWidth) + barWidth / 2)
+                    // etwas über dem balken positionieren
+                    .attr('y', chartHeight - chartHeight * result[ i ].percent / 100 - 5)
+                    .style('fill', result[ i ].color) // schriftfarbe
+                    .style('font-size', '18px') // schriftgröße
+                    .style('text-anchor', 'middle') // zentrieren
+                    .text(result[ i ].percent); // der text an sich
                 }
             }
 

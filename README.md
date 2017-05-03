@@ -53,11 +53,14 @@ Mit dem dadurch erlangten Verständnis werden noch einige bekannte und relevante
 
 Zum Schluss wird das erlernte Wissen im Zuge einer Diskussion zu dem Artikel "[Ich habe nur gezeigt, dass es die Bombe gibt](https://www.dasmagazin.ch/2016/12/03/ich-habe-nur-gezeigt-dass-es-die-bombe-gibt/)" über Cambridge Analytica und dem Einfluss auf die Wahl von Donald Trump angewendet und kritisch hinterfragt.
 
+Eine absolute Leseempfehlung zu dem Thema ist das Buch "[Weapons of Math Destruction](https://weaponsofmathdestructionbook.com/)" von Cathy O'Neil. 
+
 
 **-> [Folien Big Data](https://www.slideshare.net/cheeseman1983/einfhrung-big-data)**
 
 
 **Quellen**
+- Buch: [Weapons of Math Destruction](https://weaponsofmathdestructionbook.com/) von Cathy O'Neil
 - [Big Data](https://de.wikipedia.org/wiki/Big_Data)
 - [Algorithmus](https://de.wikipedia.org/wiki/Algorithmus)
 - [Künstliche Intelligenz](https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz)
